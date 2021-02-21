@@ -1,1 +1,0 @@
-print(Hello Dav inch ka)
